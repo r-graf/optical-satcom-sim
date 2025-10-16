@@ -3,12 +3,15 @@
 **Version:** 0.1.0  
 **Status:** Development (alpha)  
 **Autor:** Robin Graf  
-**Lizenz:** ---  
+**Lizenz:** --  
 **Letztes Update:** Oktober 2025  
 
 *(ehemals: optical-satcom-sim)*
 
-![Block Diagramm](.doc/graphics/Block-Diagram-DSP-Chain.svg)
+---
+## Block Diagram
+
+![Block Diagramm](./doc/graphics/Block-Diagram-DSP-Chain.png)
 ---
 
 ## Überblick
